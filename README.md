@@ -1,4 +1,12 @@
-#### First install Tkinter and psycopg2
+#### First install Tkinter, psycopg2, and PIL
+
+#### If you don't have pip, please install it with "sudo apt install python3-pip"
+
+#### PIL package is required
+
+Type in Command Prompt:
+
+pip install Pillow
 
 #### Tkinter required
 
@@ -23,10 +31,10 @@ pip install psycopg2
 #### this will transmit to udp and update the database
 
 
-GitHub	          |  Name
-:----------------:|:----------------:
-alexRAI10	        |  Alain Delgado
-dylan-schlageter  | Dylan Schlageter
-nnwp-ross	        |  Jordan Calhoun
-m-lm	            |  Micah McCollum
-RAndreChavez	    |  Remer Chavez
+GitHub	          |  Name            | Part of project
+:----------------:|:----------------:|:------------:
+alexRAI10	        |  Alain Delgado   | splash_screen
+dylan-schlageter  | Dylan Schlageter | first_screen/udp
+nnwp-ross	        |  Jordan Calhoun  | sql/database
+m-lm	            |  Micah McCollum  | sql/database
+RAndreChavez	    |  Remer Chavez    |
