@@ -19,6 +19,8 @@ pip install psycopg2
 
 #### After installed, type "python3 udp.py" in one terminal
 #### then in a different terminal, type "python3 first_screen.py"
+#### Now, enter a equipment ID and press enter, then input codename.
+#### this will transmit to udp and update the database
 
 
 GitHub	            Name
