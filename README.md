@@ -1,4 +1,4 @@
-#### Fist install Tkinter and psycopg2
+#### First install Tkinter and psycopg2
 
 #### Tkinter required
 
