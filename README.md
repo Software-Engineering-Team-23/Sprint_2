@@ -23,9 +23,10 @@ pip install psycopg2
 #### this will transmit to udp and update the database
 
 
-GitHub	            Name
-alexRAI10	        Alain Delgado
-dylan-schlageter	Dylan Schlageter
-nnwp-ross	        Jordan Calhoun
-m-lm	            Micah McCollum
-RAndreChavez	    Remer Chavez
+GitHub	          |  Name
+:----------------:|:----------------:
+alexRAI10	        |  Alain Delgado
+dylan-schlageter  | Dylan Schlageter
+nnwp-ross	        |  Jordan Calhoun
+m-lm	            |  Micah McCollum
+RAndreChavez	    |  Remer Chavez
